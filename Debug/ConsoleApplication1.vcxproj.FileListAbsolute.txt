@@ -1,3 +1,0 @@
-D:\skrypty,programy,kod\Programy C++\game-of-life\Debug\game_of_life.exe
-D:\skrypty,programy,kod\Programy C++\game-of-life — kopia\Debug\game_of_life.exe
-D:\skrypty,programy,kod\Programy C++\game-of-life-CLTV\game-of-life\Debug\game_of_life.exe
